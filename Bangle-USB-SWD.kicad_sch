@@ -356,7 +356,7 @@
     (uuid ff3c0510-f304-4478-9b73-00fde1ca3c3e)
   )
 
-  (label "SWCLK" (at 90.17 81.28 0)
+  (label "SWD" (at 90.17 81.28 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 0036e638-2a06-43f7-9e22-b217f2f0d7c5)
   )
@@ -396,7 +396,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid ad3e41d8-c882-4a2f-aa3e-804d740e2e73)
   )
-  (label "SWD" (at 90.17 78.74 0)
+  (label "SWCLK" (at 90.17 78.74 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid b203fcba-4206-43de-9865-6c530db150fd)
   )
